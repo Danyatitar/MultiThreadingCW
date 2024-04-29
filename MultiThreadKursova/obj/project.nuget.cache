@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0yte/Qip93nsLw9z7PBk0toNbClQmIGQ/ClmObeXkHvLrlf2ijaOU54DxOsc9QfMBxP4TqzvdWHq99gF59K9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danylo\\Desktop\\MultiThreadKursova\\MultiThreadKursova\\MultiThreadKursova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danylo\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

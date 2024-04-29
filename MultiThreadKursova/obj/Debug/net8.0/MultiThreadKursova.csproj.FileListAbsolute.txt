@@ -1,0 +1,17 @@
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MultiThreadKursova.exe
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MultiThreadKursova.deps.json
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MultiThreadKursova.runtimeconfig.json
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MultiThreadKursova.dll
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MultiThreadKursova.pdb
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.AssemblyInfoInputs.cache
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.AssemblyInfo.cs
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.csproj.CoreCompileInputs.cache
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.dll
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\refint\MultiThreadKursova.dll
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.pdb
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.genruntimeconfig.cache
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\ref\MultiThreadKursova.dll
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThreadKursova.csproj.AssemblyReference.cache
+C:\Users\Danylo\Desktop\MultiThreadKursova\MultiThreadKursova\obj\Debug\net8.0\MultiThr.F18F3566.Up2Date
